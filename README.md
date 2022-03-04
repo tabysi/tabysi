@@ -12,3 +12,7 @@ Hi, my name is Thomas, I come from Bremen,Germany and my passion is programming 
 
 # My Project's [en-EN]
 - why i also translate it to english :=) ??
+
+
+# STATS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komadev&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
