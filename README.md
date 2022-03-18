@@ -5,5 +5,5 @@ Hi, my name is Thomas, I come from Bremen,Germany and my passion is programming 
 - i have no ideas :(
 
 
-# STATS
-<p align="left"> <img src="https://komadev.com/ghpvc/?username=komadev&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
+# My Profile
+![DevKomas Stats](https://github-readme-stats.vercel.app/api?username=devkoma&show_icons=true&theme=radical)
