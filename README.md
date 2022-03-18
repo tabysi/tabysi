@@ -6,4 +6,4 @@ Hi, my name is Thomas, I come from Bremen,Germany and my passion is programming 
 
 
 # STATS
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komadev&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
+<p align="left"> <img src="https://komadev.com/ghpvc/?username=komadev&label=Profile%20views&color=0e75b6&style=flat" alt="wendell1101" /> </p>
