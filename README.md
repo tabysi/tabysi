@@ -1,4 +1,4 @@
 # About me!
-Hi, my name is Thomas, I come from Bremen, Germany and my passion is programming and always learning something new. I like to share my stuff with everyone :)
+Hi, my name is Koma. I'm currently learning `.lua`; `.html`; `.css` and `.js`
 
 # Website
