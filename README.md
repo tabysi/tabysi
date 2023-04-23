@@ -1,3 +1,7 @@
 # 🧨 TheRealKoma 🧨
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealKoma&count_private=true&show_icons=true&theme=tokyonight)
+
+# ⚡ Open-Source Projects ⚡
+
+## Project #001
