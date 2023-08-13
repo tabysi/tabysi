@@ -1,6 +1,6 @@
 # 🚀 Tabysi
 
-**`Digital Offline Developer (Developer/CEO/Noob)`**
+**`Digital Offline Developer (Developer/CEO/Creator)`**
 
 Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: programming. For hours and with dedication I devote myself to this passion. As the proud founder of Trusted-Studios (https://trusted-studios.eu), I run the whole thing with full energy. Our main focus is on simplifying complex systems, because we believe in intuitive user experiences. In the near future, we will provide gamers with a variety of systems to give them the perfect overview. But we don't want to dominate the market alone. That's why we're providing you with an API so you can pull data from other sources as well. We strive for fairness and transparency in this exciting world. Let's push the boundaries of possibilities together!
 
@@ -24,4 +24,3 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabysi&count_private=true&show_icons=true&theme=tokyonight)
-
