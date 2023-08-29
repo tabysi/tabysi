@@ -24,3 +24,4 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabysi&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabysi&theme=tokyonight)
