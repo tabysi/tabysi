@@ -21,6 +21,11 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
 
+---
+
+### Projects i made
+> coming soon...
+
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabysi&count_private=true&show_icons=true&theme=tokyonight)
