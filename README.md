@@ -23,7 +23,7 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 
 ---
 
-### Projects i made
+### ✨ Projects
 > coming soon...
 
 #
