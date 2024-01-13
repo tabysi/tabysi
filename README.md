@@ -1,4 +1,4 @@
-# 🚀 Tabysi
+# 🚀 Tabysi / [Tabysi.de](https://tabysi.de)
 
 **`Digital Offline Developer (Developer/Founder/Creator)`**
 
@@ -23,8 +23,11 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 
 ---
 
-### ✨ Projects
-> coming soon...
+### ✨ My Projects
+- [Trusted-Studios](https://trusted-studios.eu)
+- [Emergency Crossfire (GTA V)](https://emergency-crossfire.de)
+- [FirstAID-Interface ***(closed)***](https://tabysi.de/firstaid-interface)
+- [Intranet (IFHAC)](https://tabysi.de/ifhac)
 
 #
 
