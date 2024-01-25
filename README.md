@@ -1,4 +1,4 @@
-# 🚀 Tabysi / [Tabysi.de](https://tabysi.de)
+# 🚀 Tabysi / [Tabysi.de](http://tabysi.de)
 
 **`Digital Offline Developer (Developer/Founder/Creator)`**
 
