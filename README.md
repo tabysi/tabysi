@@ -1,4 +1,14 @@
-# 🚀 Tabysi / [Tabysi.de](http://tabysi.de)
+<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
+
+<h1 align="left"><a href="https://tabysi.de" target="_blank">🚀 Tabysi</a> </h1>
+
+<h3 align="left">
+  I'm a developer and I love new tech!
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Get+out,+touch+some+gras!.)](https://git.io/typing-svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
 
 **`Digital Offline Developer (Developer/Founder/Creator)`**
 
@@ -6,7 +16,7 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools i use
 
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/lua/lua-original-wordmark.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
