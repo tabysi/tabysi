@@ -1,14 +1,9 @@
-<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
-
-<h1 align="left"><a href="https://tabysi.de" target="_blank">🚀 Tabysi</a> </h1>
+<h1 align="left"><a href="https://tabysi.de" target="_blank">🚀 Tabysi.de</a> </h1>
 
 <h3 align="left">
   I'm a developer and I love new tech!
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Get+out,+touch+some+gras!.)](https://git.io/typing-svg)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
 
 **`Digital Offline Developer (Developer/Founder/Creator)`**
 
