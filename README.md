@@ -28,12 +28,8 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 
 ---
 
-### ✨ My Projects
+### ✨ My Company
 - [Trusted-Studios](https://trusted-studios.eu)
-- [Emergency Crossfire (GTA V)](https://emergency-crossfire.de)
-- [FirstAID-Interface ***(closed)***](https://tabysi.de/firstaid-interface)
-- [Intranet (IFHAC-RH)](https://tabysi.de/ifhac)
-- [Health Care Service (HCS-RH)](https://tabysi.de/hcs)
 
 #
 
