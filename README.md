@@ -30,6 +30,7 @@ Hi 👋, I'm Thomas, and I'm currently diving into a fascinating new field: prog
 
 ### ✨ My Company
 - [Trusted-Studios](https://trusted-studios.eu)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Trusted-Studios&count_private=true&show_icons=true&theme=tokyonight)
 
 #
 
