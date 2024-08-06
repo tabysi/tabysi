@@ -5,7 +5,7 @@
 </h3>
 
 
-**`Digital Offline Developer (Developer/Founder/Nursing specialist)`**
+**`Digital Offline Developer (Developer/Founder/Pflegefachmann)`**
 :de:
 
 ---
