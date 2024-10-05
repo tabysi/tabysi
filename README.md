@@ -11,3 +11,4 @@
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabysi&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabysi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)  
