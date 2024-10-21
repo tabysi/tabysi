@@ -16,4 +16,5 @@
 # My projects
 
 <a href="https://tabysi.de/"><img src="/img/health.svg" width="160px"></a>
-<a href="https://trusted-studios.eu/"><img src="/img/health.svg" width="160px"></a>
+<a href="https://trusted-studios.eu/"><img src="/img/fne.svg" width="160px"></a>
+<a href="https://trusted-studios.eu/"><img src="/img/trusted.svg" width="160px"></a>
