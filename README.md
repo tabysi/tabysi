@@ -4,9 +4,13 @@
   I'm a developer and I love new tech!
 </h3>
 
-
 **`Digital Offline Developer (Developer/Founder/Pflegefachmann)`**
 :de:
+
+<div align="center">
+  <a href="https://trusted-studios.eu/"><img src="/img/trusted.svg" width="260px"></a>
+</div>
+
 
 #
 
@@ -16,5 +20,4 @@
 # My projects
 
 <a href="https://tabysi.de/"><img src="/img/health.svg" width="160px"></a>
-<a href="https://trusted-studios.eu/"><img src="/img/fne.svg" width="160px"></a>
-<a href="https://trusted-studios.eu/"><img src="/img/trusted.svg" width="160px"></a>
+<a href="https://trusted-studios.eu/fne"><img src="/img/fne.svg" width="160px"></a>
