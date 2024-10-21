@@ -7,10 +7,11 @@
 **`Digital Offline Developer (Developer/Founder/Pflegefachmann)`**
 :de:
 
+#
+
 <div align="center">
   <a href="https://trusted-studios.eu/"><img src="/img/trusted.svg" width="260px"></a>
 </div>
-
 
 #
 
