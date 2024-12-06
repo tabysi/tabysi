@@ -36,7 +36,7 @@
 </p>
 
 <a href="https://discord.com/users/880134617162735696">
-  <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.cruck.store" align="right"/>
+  <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de" align="right"/>
 </a>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
@@ -44,6 +44,20 @@
 
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/tabysi" target="_blank">Discord - Cruck Store</a></p>
+
+
+<span><b>💞️ We're looking for:</b></span>
+  - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i><img align="right" src="https://github.com/tabysi/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
+  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
+  - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i>
+
+<br>
+
+<span><b>💞️ We're working for:</b></span>
+  - FiveM Store <i>(Cruck Store)
+  - Quasar Store (We Make Some Tuto Video for Him)
+  - NightFall FA <i>(Los Santos US French Server)<i>
+  - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
@@ -109,8 +123,6 @@
 
 
 
-
-
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabysi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
 <style>
@@ -120,3 +132,9 @@ img {
 }
 <style>
 -->
+
+
+<!---
+tabysi/tabysi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
