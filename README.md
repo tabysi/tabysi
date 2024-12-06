@@ -19,19 +19,11 @@
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/hmmM89nCdX" target="_blank">Discord - Trusted-Studios</a></p>
 
-
-<span><b>💞️ We're looking for:</b></span>
-  - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i><img align="right" src="https://github.com/tabysi/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
-  - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i>
-
-<br>
-
-<span><b>💞️ We're working for:</b></span>
-  - FiveM Store <i>(Cruck Store)
-  - Quasar Store (We Make Some Tuto Video for Him)
-  - NightFall FA <i>(Los Santos US French Server)<i>
-  - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
+<span><b>💞️ My Projects</b></span>
+  - lorem ipsum <i>(lorem ipsum)
+  - lorem ipsum (lorem ipsum)
+  - lorem ipsum <i>(lorem ipsum)<i>
+  - lorem ipsum <i>(lorem ipsum)<i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
@@ -55,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
+
 
 <h3 align="left" style="text-decoration: underline;">What are our Stats? <i>(language we use most, number of commit, etc)</i></h3>
 
