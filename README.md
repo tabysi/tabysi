@@ -1,32 +1,5 @@
-<h1 align="left"><a href="https://tabysi.de" target="_blank">🚀 Tabysi.de</a> </h1>
-
-<h3 >
-  I'm a developer and I love new tech!
-</h3>
-
-**`Digital Offline Developer (Developer/Founder/Pflegefachmann)`**
-:de:
-
-#
-
-<div align="center">
-  <a href="https://trusted-studios.eu/"><img src="/img/trusted.svg" width="260px"></a>
-</div>
-
-#
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabysi&count_private=true&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabysi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)  
-
-# My projects
-
-<a href="https://tabysi.de/"><img src="/img/health.svg" width="160px"></a>
-<a href="https://trusted-studios.eu/fne"><img src="/img/fne.svg" width="160px"></a>
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @tabysi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm @tabysi</h1>
 
 <p align="left"> 
   <a href="https://discord.gg/tabysi" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
@@ -39,11 +12,12 @@
   <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
-<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>Website:</u></h3>
+<p><a href="https://www.tabysi.de" target="_blank">Tabysi</a></p>
+<p><a href="https://www.trusted-studios.eu" target="_blank">Trusted-Studios</a></p>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
-<p><a href="https://discord.gg/tabysi" target="_blank">Discord - Cruck Store</a></p>
+<p><a href="https://discord.gg/hmmM89nCdX" target="_blank">Discord - Trusted-Studios</a></p>
 
 
 <span><b>💞️ We're looking for:</b></span>
