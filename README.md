@@ -20,19 +20,19 @@
 <p><a href="https://discord.gg/hmmM89nCdX" target="_blank">Discord - Trusted-Studios</a></p>
 
 <span><b>💞️ My Projects</b></span>
-  - lorem ipsum <i>(lorem ipsum)
-  - lorem ipsum (lorem ipsum)
-  - lorem ipsum <i>(lorem ipsum)<i>
-  - lorem ipsum <i>(lorem ipsum)<i>
+  - lorem ipsum <i>(lorem ipsum)</i>
+  - lorem ipsum <i>(lorem ipsum)</i>
+  - lorem ipsum <i>(lorem ipsum)</i>
+  - lorem ipsum <i>(lorem ipsum)</i>
 
 
-<h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
+<h3 align="left" style="text-decoration: underline;">What i Use for Work? <i>(language & software for work)</i></h3>
 
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
