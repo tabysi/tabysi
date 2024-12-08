@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm @tabysi</h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/tabysi" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
+  <a href="https://discord.gg/hmmM89nCdX" rel="nofollow"><img src="https://img.shields.io/discord/1068573047172374634?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
   <img src="https://komarev.com/ghpvc/?username=tabysi&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profil"/>
   <img src="https://img.shields.io/github/followers/tabysi?style=react" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/tabysi?style=react" alt="GitHub Stars"/>
