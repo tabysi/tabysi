@@ -12,7 +12,7 @@
   <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>Website:</u></h3>
+<h3 align="left" style="text-decoration: underline;"><u>My Websites:</u></h3>
 <p><a href="https://www.tabysi.de" target="_blank">Tabysi</a></p>
 <p><a href="https://www.trusted-studios.eu" target="_blank">Trusted-Studios</a></p>
 
@@ -35,7 +35,7 @@
 </p>
 <br>
 
-<h3 align="left" style="text-decoration: underline;">What are our Stats? <i>(language we use most, number of commit, etc)</i></h3>
+<h3 align="left" style="text-decoration: underline;">What are my Stats? <i>(language i use most, number of commit, etc)</i></h3>
 
 <div>
 <table width="100%" align="center">
