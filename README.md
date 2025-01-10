@@ -16,14 +16,13 @@
 <p><a href="https://www.tabysi.de" target="_blank">Tabysi</a></p>
 <p><a href="https://www.trusted-studios.eu" target="_blank">Trusted-Studios</a></p>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
-<p><a href="https://discord.gg/hmmM89nCdX" target="_blank">Discord - Trusted-Studios</a></p>
+<a href="https://discord.gg/hmmM89nCdX" target="_blank" align="left" style="text-decoration: underline;"><u>Discord - Trusted-Studios</u></a>
 
 <span><b>💞️ My Projects</b></span>
-  - lorem ipsum <i>(lorem ipsum)</i>
-  - lorem ipsum <i>(lorem ipsum)</i>
-  - lorem ipsum <i>(lorem ipsum)</i>
-  - lorem ipsum <i>(lorem ipsum)</i>
+  - Trusted-Studios <i>~ Software Company</i>
+  - Tabysi Learning <i>~ Learning platform for specialist nursing</i>
+  - FNE <i>~ 🤫 psst</i>
+  - Medical Documentation <i>~ Software for hospice / resthome</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What i Use for Work? <i>(language & software for work)</i></h3>
