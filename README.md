@@ -12,14 +12,9 @@
   <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>My Websites:</u></h3>
-<p><a href="https://www.tabysi.de" target="_blank">Tabysi</a></p>
-<p><a href="https://www.trusted-studios.eu" target="_blank">Trusted-Studios</a></p>
-
-<a href="https://discord.gg/hmmM89nCdX" target="_blank" align="left" style="text-decoration: underline;"><u>Discord - Trusted-Studios</u></a>
-
 <span><b>💞️ My Projects</b></span>
-  - Trusted-Studios <i>~ Software Company</i>
+  - <a href="https://netica.dev" target="_blank">Netica.dev</a>, GBr <i>~ Software Development Company</i>
+  - <a href="https://trusted-studios.eu" target="_blank">Trusted-Studios</a> <i>~ FiveM Development Service</i>
   - Tabysi Learning <i>~ Learning platform for specialist nursing</i>
   - FNE <i>~ 🤫 psst</i>
   - Medical Documentation <i>~ Software for hospice / resthome</i>
@@ -64,14 +59,13 @@
 </table>
 </div>
 
-<h3 align="left" style="text-decoration: underline;">Our Commit Line <i>(in animation)</i></h3>
+<h3 align="left" style="text-decoration: underline;">My Commit Line <i>(in animation)</i></h3>
 
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/tabysi?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-
 
 
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabysi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
