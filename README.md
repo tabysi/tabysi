@@ -12,13 +12,6 @@
   <img src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de" align="right"/>
 </a>
 
-<span><b>💞️ My Projects</b></span>
-  - <a href="https://netica.dev" target="_blank">Netica.dev</a>, GBr <i>~ Software Development Company</i>
-  - <a href="https://trusted-studios.eu" target="_blank">Trusted-Studios</a> <i>~ FiveM Development Service</i>
-  - Tabysi Learning <i>~ Learning platform for specialist nursing</i>
-  - FNE <i>~ 🤫 psst</i>
-  - Medical Documentation <i>~ Software for hospice / resthome</i>
-
 
 <h3 align="left" style="text-decoration: underline;">What i Use for Work? <i>(language & software for work)</i></h3>
 
