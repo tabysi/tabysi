@@ -20,14 +20,6 @@
 
 <br/>
 
-<a href="https://discord.com/users/880134617162735696">
-  <img 
-    src="https://lanyard.cnrad.dev/api/880134617162735696?hideTimestamp=true&idleMessage=www.tabysi.de"
-    align="right"
-    width="300"
-  />
-</a>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
