@@ -1,0 +1,63 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # täglich 06:00 UTC
+  workflow_dispatch:        # manuell auslösbar
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: anuraghazra/github-readme-stats@latest
+        id: stats
+        with:
+          username: tabysi
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          INPUT_HIDE_BORDER: true
+          INPUT_SHOW_ICONS: true
+          INPUT_THEME: github_dark
+          INPUT_BG_COLOR: "0d1117"
+          INPUT_TITLE_COLOR: "58a6ff"
+          INPUT_ICON_COLOR: "1f6feb"
+          INPUT_TEXT_COLOR: "8b949e"
+          INPUT_RANK_ICON: github
+
+      - name: Save Stats SVG
+        run: |
+          mkdir -p output
+          echo '${{ steps.stats.outputs.svg }}' > output/stats.svg
+
+      - name: Generate Top Languages Card
+        uses: anuraghazra/github-readme-stats@latest
+        id: langs
+        with:
+          username: tabysi
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          card_type: top-langs
+        env:
+          INPUT_HIDE_BORDER: true
+          INPUT_LAYOUT: compact
+          INPUT_THEME: github_dark
+          INPUT_BG_COLOR: "0d1117"
+          INPUT_TITLE_COLOR: "58a6ff"
+          INPUT_TEXT_COLOR: "8b949e"
+
+      - name: Save Langs SVG
+        run: |
+          echo '${{ steps.langs.outputs.svg }}' > output/langs.svg
+
+      - name: Commit updated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats SVGs [skip ci]"
+          file_pattern: output/*.svg
